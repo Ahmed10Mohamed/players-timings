@@ -3,6 +3,9 @@
 This project is a Prayer Times Application built with React and Material UI (MUI).
 It fetches daily prayer times dynamically based on the selected city and determines the next upcoming prayer in real time.
 
+🔗 Live Demo:
+👉 https://players-timings.netlify.app/
+
 🚀 Features
 
 📍 City-based prayer times using the Aladhan API
